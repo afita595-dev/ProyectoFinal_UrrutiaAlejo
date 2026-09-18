@@ -1,5 +1,4 @@
 # language: es
-# language: es
 
 Característica: Flujo completo en OrangeHRM
 
